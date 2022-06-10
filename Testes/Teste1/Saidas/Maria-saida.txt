@@ -1,0 +1,6 @@
+febre alta, acionou Cuidador1
+febre alta, acionou Cuidador1
+febre alta, acionou Cuidador1
+febre baixa, acionou amigo Joao
+queda, acionou Cuidador1
+falecimento
