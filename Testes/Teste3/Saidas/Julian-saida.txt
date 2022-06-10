@@ -1,0 +1,16 @@
+febre alta, acionou Cuidador5
+febre alta, acionou Cuidador5
+queda, acionou Cuidador5
+febre baixa, acionou amigo Cordelia
+febre alta, acionou Cuidador5
+queda, acionou Cuidador5
+febre alta, acionou Cuidador5
+queda, acionou Cuidador5
+febre alta, acionou Cuidador5
+febre alta, acionou Cuidador5
+febre alta, acionou Cuidador5
+febre baixa, acionou amigo Cordelia
+queda, acionou Cuidador5
+febre alta, acionou Cuidador5
+febre alta, acionou Cuidador5
+febre baixa, acionou amigo Cordelia

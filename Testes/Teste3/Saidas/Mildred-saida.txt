@@ -1,0 +1,10 @@
+tudo ok
+febre alta, acionou Cuidador6
+tudo ok
+febre baixa, acionou amigo Victoria
+tudo ok
+febre alta, acionou Cuidador6
+tudo ok
+febre baixa, acionou amigo Victoria
+queda, acionou Cuidador6
+falecimento

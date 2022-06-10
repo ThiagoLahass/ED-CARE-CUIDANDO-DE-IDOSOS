@@ -1,0 +1,16 @@
+tudo ok
+febre alta, acionou Cuidador1
+queda, acionou Cuidador1
+febre baixa, acionou amigo Luis
+queda, acionou Cuidador1
+febre alta, acionou Cuidador1
+tudo ok
+febre baixa, acionou amigo Luis
+tudo ok
+queda, acionou Cuidador1
+tudo ok
+febre baixa, acionou amigo Luis
+tudo ok
+febre alta, acionou Cuidador1
+tudo ok
+queda, acionou Cuidador1

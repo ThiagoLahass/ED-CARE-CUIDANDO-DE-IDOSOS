@@ -1,0 +1,16 @@
+tudo ok
+febre alta, acionou Cuidador4
+tudo ok
+febre baixa, acionou amigo Joao
+tudo ok
+febre alta, acionou Cuidador4
+tudo ok
+febre baixa, acionou amigo Joao
+tudo ok
+febre alta, acionou Cuidador4
+tudo ok
+febre baixa, acionou amigo Joao
+tudo ok
+febre alta, acionou Cuidador4
+tudo ok
+febre baixa, acionou amigo Joao

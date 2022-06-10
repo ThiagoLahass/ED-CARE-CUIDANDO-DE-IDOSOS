@@ -1,0 +1,16 @@
+febre alta, acionou Cuidador2
+queda, acionou Cuidador2
+tudo ok
+febre baixa, acionou amigo Cordelia
+queda, acionou Cuidador2
+febre alta, acionou Cuidador2
+tudo ok
+queda, acionou Cuidador2
+febre alta, acionou Cuidador2
+febre alta, acionou Cuidador2
+queda, acionou Cuidador2
+febre baixa, acionou amigo Cordelia
+queda, acionou Cuidador2
+febre alta, acionou Cuidador2
+tudo ok
+febre baixa, acionou amigo Cordelia

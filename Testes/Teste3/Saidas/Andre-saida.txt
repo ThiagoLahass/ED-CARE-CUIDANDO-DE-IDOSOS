@@ -1,0 +1,16 @@
+febre alta, acionou Cuidador4
+queda, acionou Cuidador4
+tudo ok
+tudo ok
+queda, acionou Cuidador4
+tudo ok
+tudo ok
+queda, acionou Cuidador4
+febre alta, acionou Cuidador4
+tudo ok
+queda, acionou Cuidador4
+tudo ok
+queda, acionou Cuidador4
+tudo ok
+tudo ok
+febre baixa, acionou amigo sicrano

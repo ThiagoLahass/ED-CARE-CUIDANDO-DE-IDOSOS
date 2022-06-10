@@ -1,0 +1,7 @@
+tudo ok
+febre alta, acionou Cuidador2
+queda, acionou Cuidador2
+febre baixa, acionou amigo Cardan
+tudo ok
+queda, acionou Cuidador2
+falecimento
