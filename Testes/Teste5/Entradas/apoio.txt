@@ -1,0 +1,13 @@
+Joao;Maria;Pedro;Alice;fulano;sicrano;Eduardo;Luis;Andre;Milla;Victoria
+Joao;Maria
+Joao;Pedro
+Pedro;Alice
+fulano;sicrano
+Eduardo;Luis
+Milla;Maria
+Milla;fulano
+Milla;sicrano
+Victoria;Andre
+Victoria;Joao
+Victoria;Alice
+Andre;sicrano

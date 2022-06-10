@@ -1,0 +1,4 @@
+tudo ok
+febre alta, acionou Cuidador2
+tudo ok
+febre baixa, acionou amigo fulano

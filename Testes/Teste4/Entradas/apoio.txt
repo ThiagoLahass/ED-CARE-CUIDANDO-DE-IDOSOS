@@ -1,0 +1,6 @@
+Joao;Maria;Pedro;Alice;fulano;sicrano;Eduardo;Luis
+Joao;Maria
+Joao;Pedro
+Pedro;Alice
+fulano;sicrano
+Eduardo;Luis

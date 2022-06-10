@@ -1,0 +1,9 @@
+Cuidador1;Cuidador2;Cuidador3;Cuidador4 
+Joao;Cuidador1;Cuidador4
+Maria;Cuidador2;Cuidador3;Cuidador1
+Alice;Cuidador1;Cuidador2
+Pedro;Cuidador4;Cuidador3
+fulano;Cuidador1
+sicrano;Cuidador2
+Eduardo;Cuidador1
+Luis;Cuidador1
