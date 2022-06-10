@@ -1,0 +1,10 @@
+Joao;Maria;Pedro;Alice;Milla;Andre;Victoria;Luis
+Joao;Maria
+Joao;Pedro
+Pedro;Alice
+Milla;Maria
+Victoria;Andre
+Victoria;Joao
+Victoria;Alice
+Luis;Milla
+Andre;Joao

@@ -1,0 +1,4 @@
+queda, acionou Cuidador1
+febre baixa, acionou amigo Milla
+febre baixa, acionou amigo Milla
+febre baixa, acionou amigo Milla
