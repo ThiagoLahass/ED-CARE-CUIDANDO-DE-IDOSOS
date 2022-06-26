@@ -1,0 +1,17 @@
+make clean
+make
+
+./final.exe Testes/Teste1/ 10000
+./final.exe Testes/Teste2/ 4
+./final.exe Testes/Teste3/ 20
+./final.exe Testes/Teste4/ 5
+./final.exe Testes/Teste5/ 30
+./final.exe Testes/Teste6/ 15
+
+diff Testes/Teste1/Saidas git/Testes/Teste1/Saidas
+diff Testes/Teste2/Saidas git/Testes/Teste2/Saidas
+diff Testes/Teste3/Saidas git/Testes/Teste3/Saidas
+diff Testes/Teste4/Saidas git/Testes/Teste4/Saidas
+diff Testes/Teste5/Saidas git/Testes/Teste5/Saidas
+diff Testes/Teste6/Saidas git/Testes/Teste6/Saidas
+
