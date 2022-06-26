@@ -1,0 +1,10 @@
+tudo ok
+febre alta, acionou Cuidador1
+tudo ok
+febre baixa, acionou amigo Maria
+tudo ok
+febre baixa, acionou amigo Pedro
+febre baixa, acionou amigo Pedro
+tudo ok
+febre baixa pela quarta vez, acionou Cuidador1
+queda, acionou Cuidador1
