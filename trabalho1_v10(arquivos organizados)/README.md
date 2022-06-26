@@ -1,5 +1,5 @@
 ## Trabalho 1 Estrutura de Dados I
-## EdCare 
+## EDCare: ED Cuidando dos Idosos!
 
 Todos os comandos devem ser dados a partir do diretorio raiz, onde se encontra o arquivo Makefile
 Nesse mesmo diretorio é necessario existir as pastas 'Entradas' e 'Saidas' para executar os testes
