@@ -1,11 +1,22 @@
-## Trabalho 1 Estrutura de Dados I
-## EdCare 
-
-Todos os comandos devem ser dados a partir do diretorio raiz, onde se encontra o arquivo Makefile.
-Nesse mesmo diretorio é necessario existir as pastas 'Entradas' e 'Saidas' para executar os testes.
-Os arquivos onde estão os dados dos sensores devem estar na pasta 'Entradas'.
+<h1 align="center"> Trabalho 1 - Estrutura de Dados I </h1>
+<p align="center">
+<h2 align="center"> EDCare: ED Cuidando dos Idosos! </h1>
+<p align="center">
+<img src="http://img.shields.io/static/v1?label=VERSAO&message=v0.0.0&color=blue&style=for-the-badge"/>
+</p>
+<p align="center">
+<img src="http://img.shields.io/static/v1?label=code_quality&message=C&color=res&style=for-the-badge"/>
+</p>
+<p align="center">
+<img src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge"/>
+</p>
 
 ### Comandos:
+  Todos os comandos devem ser dados a partir do diretorio raiz, onde se encontra o arquivo Makefile.
+Nesse mesmo diretorio é necessario existir as pastas 'Entradas' e 'Saidas' para executar os testes.
+Os arquivos onde estão os dados dos sensores devem estar na pasta 'Entradas'.
+- **Para apagar os arquivos temporários:**
+make clean
 - **Para compilar os codigos e criar o executavel:**
 make
 
