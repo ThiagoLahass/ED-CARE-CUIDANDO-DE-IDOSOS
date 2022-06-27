@@ -12,12 +12,12 @@
 </p>
 
 ### Comandos:
-  Todos os comandos devem ser dados a partir do diretorio raiz, onde se encontra o arquivo Makefile.
-Nesse mesmo diretorio é necessario existir as pastas 'Entradas' e 'Saidas' para executar os testes.
+  Todos os comandos devem ser dados a partir do diretório raiz, onde se encontra o arquivo Makefile.
+Nesse mesmo diretório é necessário existir as pastas 'Entradas' e 'Saidas' para executar os testes.
 Os arquivos onde estão os dados dos sensores devem estar na pasta 'Entradas'.
 - **Para apagar os arquivos temporários:**
 make clean
-- **Para compilar os codigos e criar o executavel:**
+- **Para compilar os códigos e criar o executável:**
 make
 
 - **Para rodar o programa com o uso do Makefile:**
@@ -25,4 +25,5 @@ make run X=(numero de leituras que devem ser feitas)
 
 - **Para rodar o programa diretamente:**
 ./bin/main (numero de leituras que devem ser feitas)
+
 
