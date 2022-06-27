@@ -1,0 +1,15 @@
+c1;c2;c3;c4;c5;c6;c7;c8;c9
+i1;c1;c2;c3
+i2;c1;c2;c3
+i3;c1;c2;c3
+i4;c7;c8;c9
+i5;c7;c8;c9
+i6;c7;c8;c9
+i7;c1;c2;c3;c4;c5;c6;c7;c8;c9
+i8;c1;c2;c3;c4;c5;c6;c7;c8;c9
+i9;c1;c2;c3;c4;c5;c6;c7;c8;c9
+i10;c3;c4;c5;c6
+i11;c3;c4;c5;c6
+i12;c3;c4;c5;c6
+i13;c1;c2;c3;c4;c5;c6;c7;c8;c9
+i14;c9

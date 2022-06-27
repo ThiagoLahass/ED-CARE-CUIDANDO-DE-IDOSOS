@@ -1,0 +1,15 @@
+tudo ok
+febre alta, acionou c2
+tudo ok
+febre baixa, acionou amigo i12
+febre alta, acionou c3
+tudo ok
+febre alta, acionou c1
+tudo ok
+febre baixa, acionou amigo i12
+febre alta, acionou c1
+tudo ok
+febre alta, acionou c1
+tudo ok
+febre baixa, acionou amigo i12
+febre alta, acionou c1
