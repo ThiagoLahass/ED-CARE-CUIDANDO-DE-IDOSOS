@@ -1,6 +1,4 @@
-<h1 align="center"> Trabalho 1 - Estrutura de Dados I </h1>
-<p align="center">
-<h2 align="center"> EDCare: ED Cuidando dos Idosos! </h1>
+<h1 align="center"> EDCare: ED Cuidando dos Idosos! </h1>
 <p align="center">
 <img src="http://img.shields.io/static/v1?label=VERSAO&message=v0.0.0&color=blue&style=for-the-badge"/>
 </p>
