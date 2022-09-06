@@ -11,7 +11,8 @@
 <img src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge"/>
 </p>
 
-##Visão Geral:
+# Visão Geral:
+  Programa implemetado na linguagem 'C', fazendo uso de dados estruturados, como por exemplo, àrvores e listas encadeadas
 
 ### Comandos:
   Todos os comandos devem ser dados a partir do diretório raiz, onde se encontra o arquivo Makefile.
