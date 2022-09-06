@@ -11,6 +11,8 @@
 <img src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge"/>
 </p>
 
+##Visão Geral:
+
 ### Comandos:
   Todos os comandos devem ser dados a partir do diretório raiz, onde se encontra o arquivo Makefile.
 Nesse mesmo diretório é necessário existir as pastas 'Entradas' e 'Saidas' para executar os testes.
