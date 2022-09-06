@@ -12,9 +12,14 @@
 </p>
 
 # Visão Geral:
-  Programa implemetado na linguagem 'C', fazendo uso de dados estruturados, como por exemplo, àrvores e listas encadeadas
+  Programa implemetado na linguagem 'C', fazendo uso de dados estruturados, como listas encadeadas e tipos opacos.
+  O programa em questão tem como objetivo a criação de um programa,
+denominado EdCare, que permite que os idosos formem uma rede de apoio, na qual
+eles se ajudem, ou, em casos mais graves, sejam ajudados por cuidadores, de forma
+que as ações são tomadas a partir de dados sensoriados de temperatura, queda e
+localização dos idosos, assim como a localização dos cuidadores.
 
-### Comandos:
+# Execução do programa:
   Todos os comandos devem ser dados a partir do diretório raiz, onde se encontra o arquivo Makefile.
 Nesse mesmo diretório é necessário existir as pastas 'Entradas' e 'Saidas' para executar os testes.
 Os arquivos onde estão os dados dos sensores devem estar na pasta 'Entradas'.
